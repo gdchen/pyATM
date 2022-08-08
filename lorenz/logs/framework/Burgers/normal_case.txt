@@ -1,0 +1,14 @@
+device:cpu
+<__main__.Args object at 0x7fb01c896a00>
+device:cpu
+<__main__.Args object at 0x7ffdb5596a00>
+model parameter:{'Total': 0, 'Trainable': 0}
+state_init_true shape:torch.Size([3])
+device:cpu
+<__main__.Args object at 0x7f9f31571a00>
+model parameter:{'Total': 0, 'Trainable': 0}
+state_init_true shape:torch.Size([3])
+device:cpu
+<__main__.Args object at 0x7fa22a760d90>
+model parameter:{'Total': 0, 'Trainable': 0}
+state_init_true shape:torch.Size([3])

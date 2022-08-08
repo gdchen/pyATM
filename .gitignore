@@ -1,0 +1,15 @@
+*.log
+*.pdf
+*.gif
+logs/*
+results/*
+runs/*
+result/*
+checkpoints/*
+*.pyc
+*.csv
+*.nc
+*.pt
+*.npy
+*.png
+*.npz

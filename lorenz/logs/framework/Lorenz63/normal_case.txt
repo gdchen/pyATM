@@ -1,0 +1,13 @@
+device:cpu
+<__main__.Args object at 0x7fea47e7ba00>
+model parameter:{'Total': 0, 'Trainable': 0}
+state_init_true shape:torch.Size([3])
+device:cpu
+<__main__.Args object at 0x7fdede796a00>
+model parameter:{'Total': 0, 'Trainable': 0}
+state_init_true shape:torch.Size([3])
+No handles with labels found to put in legend.
+device:cpu
+<__main__.Args object at 0x7fec5d896a00>
+model parameter:{'Total': 0, 'Trainable': 0}
+state_init_true shape:torch.Size([3])

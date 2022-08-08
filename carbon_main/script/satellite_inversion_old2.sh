@@ -1,0 +1,25 @@
+python pctm_v00.py \
+--year 2018 \
+--month 7 \
+--day 16 \
+--last_day 15 \
+--interval_minutes 30 \
+--device "cpu" \
+--if_mixing_str "False" \
+--sim_dimension 2 \
+--layer_type "layer_1" \
+--if_plot_result_str "True" \
+--plot_interval 24 \
+--data_folder '/Users/yaoyichen/dataset/auto_experiment/experiment_0/' \
+--result_folder '/Users/yaoyichen/Desktop/auto_experiment/experiment_0/real_layer1_assimilation_satellite_20180701_inversion_15day_0001_mask_0716_again/' \
+--geoschem_co2_file "GEOSChem.SpeciesConc.20190701_0000z.nc4" \
+--cinit_type "from_file" \
+--problem_type "inversion" \
+--experiment_type "real" \
+--obs_type "satellite" \
+--flux_type_inversion "init_constant" \
+--iteration_number 100 \
+--early_stop_value 0.2e-6 \
+--lr_flux 0.001e-3 \
+--if_background "True" \
+--background_weight 0.5
