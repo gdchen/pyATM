@@ -12,9 +12,7 @@ This library provides the implementation of a fully-differentiable atmosphere tr
 
 The atmospheric transport model used in the inversion problem can be expressed as
 
-
-![](http://latex.codecogs.com/svg.latex?\frac{\partial \rho c}{\partial t} = -\nabla{(\rho c \cdot V)} + s)
-
+$$ \frac{\partial \rho c}{\partial t} = -\nabla{(\rho c \cdot V)} + s $$
 
 The equation describes the evolution of the carbon concentration field $c$ under the transport effect of meteorological velocity field $V$, and the source/sink effects of the surface flux $s$. $\rho$ is the density of the air which is constant by the incompressible flow assumption. The transport of the concentration field $c$ under the meteorological velocity field $V$,  the source and sink of the concentration is produced by the flux $s$, and $\rho$ is the density of the concentration. 
 
