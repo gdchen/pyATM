@@ -1,0 +1,3 @@
+global_land_mask
+opencv-python
+torch==1.12.1
