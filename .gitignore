@@ -13,3 +13,4 @@ checkpoints/*
 *.npy
 *.png
 *.npz
+!figs/
